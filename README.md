@@ -5,7 +5,35 @@
 <h3 align="left">Sobre mim</h3>
 
 ###
-<p align="justify">Carreira desenvolvida na área eletrônica (SENAI) que veio agregar posteriormente com o curso de Engenharia de Computação (FURG). Atualmente, Analista de Tecnologia da Informação na Indústrias Alimentícias Leal Santos Ltda, algumas das atividades exercidas na empresa são: suporte em geral ao usuário, à rede e a infraestrutura. Manutenções preventivas e corretivas ao servidor de e-mails, configuração de backups, gerenciamento do banco de dados e gerenciamento do datacenter. Gerenciamento e instalação de máquinas virtuais e análise de sistema de produção e apoio ao PCP/PCM Industrial.<br>Em 2017, paralelamente a atividade na indústria, surgiu a oportunidade de trabalhar com desenvolvimento de sistemas em ambiente Java com foco em gestão de arquivos digitais (xml, NFe, CTe) para armazenamento e auxílio na recuperação de créditos fiscais. Após aceito o desafio, fiz parte da coordenação do projeto e já realizamos um MVP com clientes pelo Brasil para aperfeiçoar a ferramenta com a coleta de feedbacks. E hoje na Leal Santos ele é de suma importância para os lançamentos das notas, fechamentos, compliance fiscal, compliance de compras, etc.<br>Em 2018, aceitei o desafio de desenvolver o ambiente de Business Intelligence na indústria, com análises de safra, produção, financeiro, impostos e faturamento. Após termos essas informações, seguimos para a etapa de criação de indicadores para melhorias e manutenção das melhores práticas de negócios no ramo da pesca.<br>Já em 2020, mais focado para área mobile, estou à frente de um novo desafio com desenvolvimento de um sistema de coleta e armazenamento de dados, para acompanhamento e monitoramento da safra de atum nas regiões sul/sudeste do Brasil.<br>Por fim, em 2022, venho me aprofundando mais na análise e extração dos dados para assim gerar relatórios internos ao ERP e indicadores/KPI mais assertivos à tomada de decisão do negócio.</p>
+<p align="justify">
+Carreira desenvolvida na área eletrônica (SENAI) que veio agregar posteriormente com o curso de
+Engenharia de Computação (FURG).
+
+Trabalhei como Analista de Tecnologia da Informação na Indústrias Alimentícias Leal Santos Ltda,
+onde algumas das atividades exercidas na empresa foram: suporte em geral ao usuário, à rede e a
+infraestrutura. Manutenções preventivas e corretivas ao servidor de e-mails, configuração de
+backups, gerenciamento do banco de dados e gerenciamento do datacenter. Gerenciamento e
+instalação de máquinas virtuais e análise de sistema de produção e apoio ao PCP/PCM Industrial.<br>
+
+Em 2017, paralelamente a atividade na indústria, surgiu a oportunidade de trabalhar com
+desenvolvimento de sistemas em ambiente Java com foco em gestão de arquivos digitais (xml, NFe,
+CTe) para armazenamento e auxílio na recuperação de créditos fiscais. Após aceito o desafio, 
+fiz parte da coordenação do	projeto e já realizamos um MVP com clientes pelo Brasil 
+para aperfeiçoar a ferramenta com a coleta de <i>feedbacks</i>. 
+E à Leal Santos ele é de suma importância	para os lançamentos das notas, fechamentos, 
+<i>compliance</i> fiscal, <i>compliance</i> de compras, etc.<br>
+
+Em 2018, aceitei o desafio de desenvolver o ambiente de <i>Business Intelligence</i> na indústria, com
+análises de safra, produção, financeiro, impostos e faturamento. Após termos essas informações,
+seguimos para a etapa de criação de indicadores para melhorias e manutenção das melhores
+práticas de negócios no ramo da pesca.<br>
+
+Já em 2020, mais focado para área mobile, fiquei à frente de um novo desafio com
+desenvolvimento de um sistema de coleta e armazenamento de dados, para acompanhamento e
+monitoramento da safra de atum nas regiões sul/sudeste do Brasil.<br>
+
+Por fim, finalizei as minhas atividades na Leal Santos fazendo análises e extração dos dados para assim 
+gerar relatórios internos ao ERP e indicadores/KPI mais assertivos à tomada de decisão do negócio.</p>
 
 ###
 <div align="center">
